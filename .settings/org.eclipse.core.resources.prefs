@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/edu/tamuc/action/UserAction.java=UTF-8
+encoding//src/edu/tamuc/dao/UserDaoImpl.java=UTF-8
+encoding//src/edu/tamuc/util/FtpUtil.java=UTF-8
+encoding//src/edu/tamuc/view/dialog/LoginDialog.java=UTF-8
+encoding//src/edu/tamuc/view/panel/FindBookPanel.java=UTF-8
